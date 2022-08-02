@@ -17,7 +17,7 @@
 </div>
 
 
-<img align="right" alt="img-png" height="300" style="border-radius:50px;" src="https://drive.google.com/file/d/1H0WmUlU9m7bth8NPbTMAJj2zgbhiDWHE/view">
+<img align="right" alt="img-png" height="300" style="border-radius:50px;" src="https://www.freeiconspng.com/uploads/einstein-png-2.png">
 
 
 ### Social Network
